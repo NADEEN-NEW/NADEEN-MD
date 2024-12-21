@@ -15,7 +15,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 
 <br>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USESING +NADEEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NADEEN+POORNA;👨‍💻💝ɴᴀᴅᴇᴇɴ ᴍᴅ💝👨‍💻​" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=7600bc&center=true&width=910&height=100&lines=THANKS FOR USESING +NADEEN-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NADEEN+POORNA;👨‍💻💝NADEEN-MD-V2💝👨‍💻​" alt="Typing SVG" /></a>
   </p>
 
 ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/Nadeenpoorna-max/NADEEN-MD/)***
@@ -25,28 +25,31 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 <p align="center">
-<a href='https://urban-wally-nadeen-md-pair-3eaafc64.koyeb.app/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/' target="_blank"><img alt='Get Your Session' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/pair' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/qr' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-QR Code -darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://urban-wally-nadeen-md-pair-3eaafc64.koyeb.app/pair' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code 03-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://eligible-martina-nadeen-md-wa-978de682.koyeb.app/pair' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On YouTube**](https://youtube.com/@DINKA_FILMS)
+- [**On YouTube**](https://m.youtube.com/channel/UC7-B0UJMKCvrFkCjL4ezhng)
 - [**Via WhatsApp**](https://wa.me/94711451319)
 
 ### SPECIAL THANKS ❤ 
 > Manhiru Yuwan
 > | Dushani
 
-##👨🏻‍💻 CODE WARRIORS TEAM 2024 👨🏻‍💻
+##👨🏻‍💻 Dark Cyber Matrix TEAM 2024 👨🏻‍💻
 
 
 ### CONTRIBUTIONS 
 > Contributions to Nadeen-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+
+<h2 align="center">Watch Free Deploy</h2>
+- [**පැය 6කින් auto off වෙනවා**](https://youtu.be/S-YOOsTvteE)
 
 <h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
