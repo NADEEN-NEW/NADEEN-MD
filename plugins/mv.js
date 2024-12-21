@@ -7,7 +7,7 @@ const {cmd , commands} = require('../command')
 cmd({
 
     pattern: "movie",
-    alias: ["sub","mv","mv2"],
+    alias: ["sinhalasub","mv","mv2","cinesubz","ytsmx","ginisisila"],
     desc: "Movie download.",
     react: "❗",
     category: "download",

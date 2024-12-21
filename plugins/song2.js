@@ -21,8 +21,7 @@ const yt = await ytsearch(q);
 if(yt.results.length < 1) return reply("Results is not found !")
 
 let yts = yt.results[0]  
-const ytdl = await ytmp3(yts.url)
-		
+const ytdl = await ytmp3(yts.url)		
 let ytmsg = `🎶 NADEEN-MD SONG DOWNLOADER 🎶
 
 
@@ -34,15 +33,9 @@ let ytmsg = `🎶 NADEEN-MD SONG DOWNLOADER 🎶
 
 > *▫ NADEEN-MD*
 `
-// SEND DETAILS
 await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: ytmsg }, { quoted: mek });
-
-// SEND AUDIO TYPE
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
-
-// SEND DOC TYPE
-await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `${ytdl.result.title}` }, { quoted: mek })
-
+await conn.sendMessage(from, { document: { url: ytdl.download.url }, mimetype: "audio/mpeg", fileName: ytdl.result.title + '.mp3', caption: `*NADEEN-MD*` }, { quoted: mek })
 
 } catch (e) {
 console.log(e)
