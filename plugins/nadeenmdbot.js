@@ -6,7 +6,7 @@ const {cmd , commands} = require('../command')
 
 cmd({
 
-    pattern: "nadeen",
+    pattern: "bot",
     desc: "To get the bot informations.",
     react: "🔰",
     category: "main",

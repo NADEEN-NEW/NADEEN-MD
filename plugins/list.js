@@ -5,7 +5,7 @@ const {runtime} = require('../lib/functions')
 
 cmd({
     pattern: "list",
-    desc: "To get the list.",
+    desc: "To get the menu list.",
     react: "📄",
     category: "main",
     filename: __filename
@@ -72,8 +72,8 @@ let madeMenu = ` *👋 Hello ${pushname}*
  .ginisisila
  .sinhalasub
  .upmv
- .upzip
  .mkv
+ .upzip
  .upme
  .uptv
 ╰───────────●●►
@@ -101,6 +101,11 @@ let madeMenu = ` *👋 Hello ${pushname}*
  🔒 *𝐎𝐰𝐧𝐞𝐫 𝐌𝐞𝐧𝐮*
   ───────
  ${menu.owner}
+╰───────────●●►
+╭──────────●●►
+ ⚙️ *𝐎𝐭𝐡𝐞𝐫 𝐌𝐞𝐧𝐮*
+  ───────
+ ${menu.other}
 ╰───────────●●►
 ╭──────────●●►
  📰 *𝐍𝐄𝐖𝐒 𝐌𝐞𝐧𝐮*
